@@ -1,4 +1,4 @@
-# Gerenciador de Tarefas
+# Jogo de Combate
 
 Projeto desenvolvido durante a **Formação Python** da **Rocketseat**.
 
